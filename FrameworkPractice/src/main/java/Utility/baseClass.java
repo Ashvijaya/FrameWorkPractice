@@ -20,7 +20,7 @@ public class baseClass {
 	{
 		DriverFactory.getInstance().setWebDriver(webDriverFactory.getWebDriverSession());
 		DriverFactory.getInstance().getWebDriver().manage().window().maximize();
-		DriverFactory.getInstance().getWebDriver().get(AppProperties.getProperty("siteUrl","C:\\Users\\Hello\\eclipse-workspace\\FrameworkPractice\\src\\test\\resources\\test.properties"));
+		DriverFactory.getInstance().getWebDriver().get(AppProperties.getProperty("siteUrl","src/test/resources/test.properties"));
 		
 		Logs.getLog().getLogger().info("launchSession is success");
 	}

@@ -1,7 +1,18 @@
-[INFO ] 2024-09-02 20:26:58.213 [main] Logs - {AppProperties} INFO --> success reading property : {browser : chrom}
-[INFO ] 2024-09-02 20:27:01.152 [main] Logs - GetWebDriverSession is Sucess
-[INFO ] 2024-09-02 20:27:01.238 [main] Logs - {AppProperties} INFO --> success reading property : {siteUrl : https://giphy.com/}
-[INFO ] 2024-09-02 20:27:04.025 [main] Logs - launchSession is success
-[INFO ] 2024-09-02 20:27:04.031 [main] Logs - {AppProperties} INFO --> success reading property : {timeOut : 30}
-[INFO ] 2024-09-02 20:27:04.046 [main] Logs - {AppProperties} INFO --> success reading property : {timeOutInMillis : 20}
-[INFO ] 2024-09-02 20:27:05.376 [main] Logs - closeSession is Sucess
+[INFO ] 2024-09-03 11:16:27.785 [main] Logs - {AppProperties} INFO --> success reading property : {browser : chrom}
+[INFO ] 2024-09-03 11:16:29.805 [main] Logs - GetWebDriverSession is Sucess
+[INFO ] 2024-09-03 11:16:29.858 [main] Logs - {AppProperties} INFO --> success reading property : {siteUrl : https://giphy.com/}
+[INFO ] 2024-09-03 11:16:34.382 [main] Logs - launchSession is success
+[INFO ] 2024-09-03 11:16:34.397 [main] Logs - {AppProperties} INFO --> success reading property : {timeOut : 30}
+[INFO ] 2024-09-03 11:16:34.401 [main] Logs - {AppProperties} INFO --> success reading property : {timeOutInMillis : 20}
+[INFO ] 2024-09-03 11:16:35.413 [main] Logs - closeSession is Sucess
+[INFO ] 2024-09-03 11:16:35.430 [main] Logs - {AppProperties} INFO --> success reading property : {browser : chrom}
+[INFO ] 2024-09-03 11:16:36.478 [main] Logs - GetWebDriverSession is Sucess
+[INFO ] 2024-09-03 11:16:36.520 [main] Logs - {AppProperties} INFO --> success reading property : {siteUrl : https://giphy.com/}
+[INFO ] 2024-09-03 11:16:39.568 [main] Logs - launchSession is success
+[INFO ] 2024-09-03 11:16:39.570 [main] Logs - {AppProperties} INFO --> success reading property : {timeOut : 30}
+[INFO ] 2024-09-03 11:16:39.571 [main] Logs - {AppProperties} INFO --> success reading property : {timeOutInMillis : 20}
+[INFO ] 2024-09-03 11:16:39.600 [main] Logs - {AppProperties} INFO --> success reading property : {timeOut : 30}
+[INFO ] 2024-09-03 11:16:39.602 [main] Logs - {AppProperties} INFO --> success reading property : {timeOutInMillis : 20}
+[INFO ] 2024-09-03 11:16:39.604 [main] Logs - {AppProperties} INFO --> success reading property : {timeOut : 30}
+[INFO ] 2024-09-03 11:16:39.605 [main] Logs - {AppProperties} INFO --> success reading property : {timeOutInMillis : 20}
+[INFO ] 2024-09-03 11:16:41.604 [main] Logs - closeSession is Sucess

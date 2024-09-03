@@ -11,7 +11,7 @@ public class WebDriverFactory {
 	{
 		WebDriver driver=null;
 		
-		String browserName = AppProperties.getProperty("browser","C:\\Users\\Hello\\eclipse-workspace\\FrameworkPractice\\src\\test\\resources\\test.properties");
+		String browserName = AppProperties.getProperty("browser","src/test/resources/test.properties");
 		try {
 			
 		

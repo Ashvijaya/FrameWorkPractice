@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="14.722" tests="2" skipped="0" failures="0" errors="0">
-<testcase classname="Verify landing Page Features" name="Verify that main features is the site are displayed to the user" time="8.032">
+<testsuite name="Cucumber" time="14.803" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Verify landing Page Features" name="Verify that main features is the site are displayed to the user" time="8.41">
 <system-out><![CDATA[
 Given I am on the landing page..............................................passed
 Then I see the features called Login........................................passed
@@ -9,7 +9,7 @@ Then I see the features called Upload.......................................pass
 Then I see the features called Artists......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Login Page" name="To verify that error message should be display for invalid password." time="6.401">
+<testcase classname="Login Page" name="To verify that error message should be display for invalid password." time="6.182">
 <system-out><![CDATA[
 Given I am on the landing page..............................................passed
 And I click Login...........................................................passed
