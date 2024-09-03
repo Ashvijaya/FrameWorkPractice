@@ -1,0 +1,7 @@
+[INFO ] 2024-09-02 20:26:58.213 [main] Logs - {AppProperties} INFO --> success reading property : {browser : chrom}
+[INFO ] 2024-09-02 20:27:01.152 [main] Logs - GetWebDriverSession is Sucess
+[INFO ] 2024-09-02 20:27:01.238 [main] Logs - {AppProperties} INFO --> success reading property : {siteUrl : https://giphy.com/}
+[INFO ] 2024-09-02 20:27:04.025 [main] Logs - launchSession is success
+[INFO ] 2024-09-02 20:27:04.031 [main] Logs - {AppProperties} INFO --> success reading property : {timeOut : 30}
+[INFO ] 2024-09-02 20:27:04.046 [main] Logs - {AppProperties} INFO --> success reading property : {timeOutInMillis : 20}
+[INFO ] 2024-09-02 20:27:05.376 [main] Logs - closeSession is Sucess

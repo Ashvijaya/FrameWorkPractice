@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="14.722" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Verify landing Page Features" name="Verify that main features is the site are displayed to the user" time="8.032">
+<system-out><![CDATA[
+Given I am on the landing page..............................................passed
+Then I see the features called Login........................................passed
+Then I see the features called Create.......................................passed
+Then I see the features called Upload.......................................passed
+Then I see the features called Artists......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Page" name="To verify that error message should be display for invalid password." time="6.401">
+<system-out><![CDATA[
+Given I am on the landing page..............................................passed
+And I click Login...........................................................passed
+And I enter username as vijayamand@gmail.com................................passed
+And I enter password as ascd234.............................................passed
+And I click on login button.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
